@@ -1,0 +1,22 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "description": "Internship pre-task",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"Running tests...\" && exit 0",
+  "lint": "echo \"Running lint...\" && exit 0"
+}
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrasive519mars/ci-cd-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrasive519mars/ci-cd-demo/issues"
+  },
+  "homepage": "https://github.com/abrasive519mars/ci-cd-demo#readme"
+}
